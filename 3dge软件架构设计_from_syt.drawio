@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="Page-1" id="dw9cy2hVtUxoz5KOO9y6">
-    <mxGraphModel dx="1430" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1728" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,16 +52,7 @@
         <mxCell id="l-ooRK0CQchim35NLO_1-26" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;文件交互模块&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="323.5" y="511" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l-ooRK0CQchim35NLO_1-30" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="328.5" y="580" width="137" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="l-ooRK0CQchim35NLO_1-31" value="" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;strokeColor=#000000;" parent="l-ooRK0CQchim35NLO_1-30" vertex="1">
-          <mxGeometry width="137" height="50.00000000000001" as="geometry" />
-        </mxCell>
-        <mxCell id="l-ooRK0CQchim35NLO_1-32" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;NX文件读入&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="l-ooRK0CQchim35NLO_1-30" vertex="1">
-          <mxGeometry x="17.125" y="15.066225165562914" width="102.74999999999999" height="19.867549668874172" as="geometry" />
-        </mxCell>
-        <mxCell id="TkbQbGqJDlJ_ICl3t9ka-2" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="TkbQbGqJDlJ_ICl3t9ka-2" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="510" y="501" width="216" height="190" as="geometry" />
         </mxCell>
         <mxCell id="l-ooRK0CQchim35NLO_1-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="TkbQbGqJDlJ_ICl3t9ka-2" vertex="1">
@@ -82,26 +73,44 @@
         <mxCell id="l-ooRK0CQchim35NLO_1-24" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;模型部署模块&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="TkbQbGqJDlJ_ICl3t9ka-2" vertex="1">
           <mxGeometry x="33" y="10" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TkbQbGqJDlJ_ICl3t9ka-3" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="TkbQbGqJDlJ_ICl3t9ka-3" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="750" y="501" width="216" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="TkbQbGqJDlJ_ICl3t9ka-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="TkbQbGqJDlJ_ICl3t9ka-3">
+        <mxCell id="TkbQbGqJDlJ_ICl3t9ka-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="TkbQbGqJDlJ_ICl3t9ka-3" vertex="1">
           <mxGeometry width="216" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="TkbQbGqJDlJ_ICl3t9ka-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;后处理与G-code&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;strokeColor=#000000;" vertex="1" parent="TkbQbGqJDlJ_ICl3t9ka-3">
+        <mxCell id="TkbQbGqJDlJ_ICl3t9ka-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;后处理与G-code&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;strokeColor=#000000;" parent="TkbQbGqJDlJ_ICl3t9ka-3" vertex="1">
           <mxGeometry x="32" y="120" width="152" height="49.5" as="geometry" />
         </mxCell>
-        <mxCell id="TkbQbGqJDlJ_ICl3t9ka-6" value="" style="group" vertex="1" connectable="0" parent="TkbQbGqJDlJ_ICl3t9ka-3">
+        <mxCell id="TkbQbGqJDlJ_ICl3t9ka-6" value="" style="group" parent="TkbQbGqJDlJ_ICl3t9ka-3" vertex="1" connectable="0">
           <mxGeometry x="32" y="50" width="152" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TkbQbGqJDlJ_ICl3t9ka-7" value="" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;strokeColor=#000000;" vertex="1" parent="TkbQbGqJDlJ_ICl3t9ka-6">
+        <mxCell id="TkbQbGqJDlJ_ICl3t9ka-7" value="" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;strokeColor=#000000;" parent="TkbQbGqJDlJ_ICl3t9ka-6" vertex="1">
           <mxGeometry width="152" height="50.00000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="TkbQbGqJDlJ_ICl3t9ka-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;加工路径生成&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TkbQbGqJDlJ_ICl3t9ka-6">
+        <mxCell id="TkbQbGqJDlJ_ICl3t9ka-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;加工路径生成&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="TkbQbGqJDlJ_ICl3t9ka-6" vertex="1">
           <mxGeometry x="19" y="15.066225165562914" width="113.99999999999997" height="19.867549668874172" as="geometry" />
         </mxCell>
-        <mxCell id="TkbQbGqJDlJ_ICl3t9ka-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;加工处理模块&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TkbQbGqJDlJ_ICl3t9ka-3">
+        <mxCell id="TkbQbGqJDlJ_ICl3t9ka-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;加工处理模块&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="TkbQbGqJDlJ_ICl3t9ka-3" vertex="1">
           <mxGeometry x="33" y="10" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cxin84DHbW9QyXJfEUZ7-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="551" width="152" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cxin84DHbW9QyXJfEUZ7-2" value="" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;strokeColor=#000000;" vertex="1" parent="cxin84DHbW9QyXJfEUZ7-1">
+          <mxGeometry width="152" height="50.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="cxin84DHbW9QyXJfEUZ7-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Python OCC&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cxin84DHbW9QyXJfEUZ7-1">
+          <mxGeometry x="19" y="15.066225165562914" width="113.99999999999997" height="19.867549668874172" as="geometry" />
+        </mxCell>
+        <mxCell id="cxin84DHbW9QyXJfEUZ7-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="620" width="152" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cxin84DHbW9QyXJfEUZ7-5" value="" style="html=1;whiteSpace=wrap;fillColor=#d5e8d4;shape=mxgraph.archimate3.application;appType=collab;archiType=square;fontSize=14;strokeColor=#000000;" vertex="1" parent="cxin84DHbW9QyXJfEUZ7-4">
+          <mxGeometry width="152" height="50.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="cxin84DHbW9QyXJfEUZ7-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Python json&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cxin84DHbW9QyXJfEUZ7-4">
+          <mxGeometry x="19" y="15.066225165562914" width="113.99999999999997" height="19.867549668874172" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
